@@ -1,0 +1,7 @@
+C:\Users\Pim\Documents\programming\obj\x86\Debug\programming.csprojResolveAssemblyReference.cache
+C:\Users\Pim\Documents\programming\obj\x86\Debug\programming.csproj.CoreCompileInputs.cache
+C:\Users\Pim\Documents\programming\bin\Debug\ConsoleApplication.exe.config
+C:\Users\Pim\Documents\programming\bin\Debug\ConsoleApplication.exe
+C:\Users\Pim\Documents\programming\bin\Debug\ConsoleApplication.pdb
+C:\Users\Pim\Documents\programming\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Pim\Documents\programming\obj\x86\Debug\ConsoleApplication.pdb
