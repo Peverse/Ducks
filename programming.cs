@@ -12,10 +12,13 @@ namespace programming_course
         public static void Main(string[] args)
         {
             Duck mallard = new MallardDuck();
-            mallard.setFlyBehavior(new FlyWithWings());
-            mallard.setQuackBehavior(new Quack());
-            mallard.performQuack();
-            mallard.performFly();
+
+            WildTurkey turkey = new WildTurkey();
+            Duck turkeyAdapter = new TurkeyAdapter(turkey);
+
+            Console.WriteLine("The turkey says..");
+            turkey.gobble();
+            turkey.fly();
 
             Console.Read();
         }

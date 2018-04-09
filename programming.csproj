@@ -50,6 +50,8 @@
     <Compile Include="MallardDuck.cs" />
     <Compile Include="programming.cs" />
     <Compile Include="QuackBehavior.cs" />
+    <Compile Include="Turkey.cs" />
+    <Compile Include="TurkeyAdapter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />

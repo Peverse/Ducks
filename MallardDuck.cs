@@ -5,10 +5,14 @@ namespace programming_course
 
     public class MallardDuck : Duck
     {
-        public MallardDuck()
+        public void quack()
         {
-            Quack QuackBehavior = new Quack();
-            FlyWithWings FlyBehavior = new FlyWithWings();
+            Console.WriteLine("Quack");
+        }
+
+        public void fly()
+        {
+            Console.WriteLine("I'm flying");
         }
     }
 }
